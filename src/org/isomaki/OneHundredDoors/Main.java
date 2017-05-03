@@ -1,4 +1,4 @@
-package org.isomaki.OneHundredDoors;
+package org.isomaki.onehundreddoors;
 
 /**
  * Created by Chris Isomaki on 5/1/17.
